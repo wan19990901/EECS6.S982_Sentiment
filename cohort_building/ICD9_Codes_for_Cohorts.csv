@@ -1,0 +1,69 @@
+Cohort_Number,Cohort_Name,ICD9_Code,ICD9_Text,N retrieved,Added_by
+1,Alcohol,30500,"Alcohol abuse, unspecified",,Malte
+1,Alcohol,30390,"Other and unspecified alcohol dependence, unspecified",,Malte
+1,Alcohol,29181,Alcohol withdrawal,,Malte
+1,Alcohol,5711,Acute alcoholic hepatitis,,Malte
+1,Alcohol,30301,"Acute alcoholic intoxication in alcoholism, continuous",,Malte
+1,Alcohol,30391,"Other and unspecified alcohol dependence, continuous",,Malte
+1,Alcohol,30501,"Alcohol abuse, continuous",,Malte
+1,Alcohol,2910,Alcohol withdrawal delirium,,Malte
+1,Alcohol,53531,"Alcoholic gastritis, with hemorrhage",,Malte
+1,Alcohol,30300,"Acute alcoholic intoxication in alcoholism, unspecified",,Malte
+1,Alcohol,2913,Alcohol-induced psychotic disorder with hallucinations,,Malte
+1,Alcohol,53530,"Alcoholic gastritis, without mention of hemorrhage",,Malte
+1,Alcohol,30392,"Other and unspecified alcohol dependence, episodic",,Malte
+1,Alcohol,9800,Toxic effect of ethyl alcohol,,Malte
+2,IV Drug Abuse,30560,"Cocaine abuse, unspecified",404,Malte
+2,IV Drug Abuse,30401,"Opioid type dependence, continuous",280,Malte
+2,IV Drug Abuse,30590,"Other, mixed, or unspecified drug abuse, unspecified",193,Malte
+2,IV Drug Abuse,30550,"Opioid abuse, unspecified",183,Malte
+2,IV Drug Abuse,30400,"Opioid type dependence, unspecified",103,Malte
+2,IV Drug Abuse,30421,"Cocaine dependence, continuous",77,Malte
+2,IV Drug Abuse,30561,"Cocaine abuse, continuous",77,Malte
+2,IV Drug Abuse,30540,"Sedative, hypnotic or anxiolytic abuse, unspecified",52,Malte
+2,IV Drug Abuse,30551,"Opioid abuse, continuous",47,Malte
+2,IV Drug Abuse,30470,"Combinations of opioid type drug with any other drug dependence, unspecified",41,Malte
+2,IV Drug Abuse,30471,"Combinations of opioid type drug with any other drug dependence, continuous",38,Malte
+2,IV Drug Abuse,30420,"Cocaine dependence, unspecified",35,Malte
+2,IV Drug Abuse,30591,"Other, mixed, or unspecified drug abuse, continuous",35,Malte
+2,IV Drug Abuse,30410,"Sedative, hypnotic or anxiolytic dependence, unspecified",29,Malte
+2,IV Drug Abuse,30411,"Sedative, hypnotic or anxiolytic dependence, continuous",28,Malte
+2,IV Drug Abuse,30570,"Amphetamine or related acting sympathomimetic abuse, unspecified",27,Malte
+2,IV Drug Abuse,30562,"Cocaine abuse, episodic",15,Malte
+2,IV Drug Abuse,30490,"Unspecified drug dependence, unspecified",14,Malte
+2,IV Drug Abuse,30491,"Unspecified drug dependence, continuous",12,Malte
+2,IV Drug Abuse,30541,"Sedative, hypnotic or anxiolytic abuse, continuous",9,Malte
+2,IV Drug Abuse,30461,"Other specified drug dependence, continuous",7,Malte
+2,IV Drug Abuse,30460,"Other specified drug dependence, unspecified",7,Malte
+2,IV Drug Abuse,30552,"Opioid abuse, episodic",6,Malte
+2,IV Drug Abuse,30441,"Amphetamine and other psychostimulant dependence, continuous",5,Malte
+2,IV Drug Abuse,30481,"Combinations of drug dependence excluding opioid type drug, continuous",5,Malte
+2,IV Drug Abuse,30402,"Opioid type dependence, episodic",5,Malte
+2,IV Drug Abuse,30580,"Antidepressant type abuse, unspecified",4,Malte
+2,IV Drug Abuse,30422,"Cocaine dependence, episodic",3,Malte
+2,IV Drug Abuse,30530,"Hallucinogen abuse, unspecified",2,Malte
+2,IV Drug Abuse,30440,"Amphetamine and other psychostimulant dependence, unspecified",2,Malte
+2,IV Drug Abuse,30571,"Amphetamine or related acting sympathomimetic abuse, continuous",2,Malte
+2,IV Drug Abuse,30480,"Combinations of drug dependence excluding opioid type drug, unspecified",2,Malte
+2,IV Drug Abuse,30592,"Other, mixed, or unspecified drug abuse, episodic",1,Malte
+2,IV Drug Abuse,30531,"Hallucinogen abuse, continuous",1,Malte
+2,IV Drug Abuse,30472,"Combinations of opioid type drug with any other drug dependence, episodic",1,Malte
+4,Homelessness,V600,Lack of housing,,Malte
+4,Homelessness,V601,Inadequate Housing,,Malte
+8,Physical Disability,V4975,Below knee amputation status,,Malte
+8,Physical Disability,V4987,Physical restraints status,,Malte
+8,Physical Disability,V4976,Above knee amputation status,,Malte
+8,Physical Disability,V4972,Other toe(s) amputation status,,Malte
+8,Physical Disability,V4973,Foot amputation status,,Malte
+8,Physical Disability,V4962,Other finger(s) amputation status,,Malte
+8,Physical Disability,V4971,Great toe amputation status,,Malte
+8,Physical Disability,V4960,Unspecified level upper limb amputation status,,Malte
+8,Physical Disability,V4965,Below elbow amputation status,,Malte
+8,Physical Disability,V4961,Thumb amputation status,,Malte
+8,Physical Disability,V4963,Hand amputation status,,Malte
+8,Physical Disability,V4966,Above elbow amputation status,,Malte
+11,Smoking,3051,Tobacco use disorder,,Malte
+11,Smoking,V1582,Personal history of tobacco use,,Malte
+11,Smoking,64903,"Tobacco use disorder complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",,Malte
+11,Smoking,64904,"Tobacco use disorder complicating pregnancy, childbirth, or the puerperium, postpartum condition or complication",,Malte
+13,Hypochondriacs,3007,Hypochondriasis,,Malte
